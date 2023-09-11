@@ -94,9 +94,9 @@ footer{
 }
 
 footer > p {
-    padding: 0px 0px;
+    text-align: center;
+    padding: 1rem 0;
 }
-
 
 main{
     margin: 0;
